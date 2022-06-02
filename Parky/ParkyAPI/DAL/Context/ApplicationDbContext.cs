@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ParkyAPI.Models;
+using ParkyAPI.DAL.Entities;
 
-namespace ParkyAPI.Data
+namespace ParkyAPI.DAL.Context
 {
     public class ApplicationDbContext : DbContext
     {

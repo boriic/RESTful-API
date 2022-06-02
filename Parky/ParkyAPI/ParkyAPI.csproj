@@ -13,10 +13,5 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repository\" />
-    <Folder Include="Repository.Common\" />
-  </ItemGroup>
-
 
 </Project>

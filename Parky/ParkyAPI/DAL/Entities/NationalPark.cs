@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace ParkyAPI.Models
+namespace ParkyAPI.DAL.Entities
 {
     public class NationalPark
     {
